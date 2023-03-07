@@ -4,12 +4,13 @@
 
 ### Consigna 1
 Crea tu presentación utilizando los siguientes puntos, puedes agregar más si lo deseas:  
-* Nombre y Apellido
-* Hobbies
-* Materia favorita 
+* Nombre y Apellido:Santino Gonzalez 
+* Hobbies:Jugar al fútbol 
+* Materia favorita:TLP
 * ¿Qué te gustaría estudiar o cuál es tu trabajo soñado?
+  :arquitectura 
 * Opcional: ¿Qué esperas de la materia? ¿Qué tema te gustaría ver?
-
+  Me gustaría aprender sobre programación y otras cosas que vayan con la materia
 ### Consigna 2
 
 * Crea tu propio dinosaurio con inteligencia artificial siguiendo el link: https://huggingface.co/spaces/dalle-mini/dalle-mini o si tenés Discord https://midjourney.com/home/?callbackUrl=%2Fapp%2F
